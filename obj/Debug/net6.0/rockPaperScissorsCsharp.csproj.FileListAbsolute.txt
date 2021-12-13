@@ -1,0 +1,15 @@
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\rockPaperScissorsCsharp.csproj.AssemblyReference.cache
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\rockPaperScissorsCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\rockPaperScissorsCsharp.AssemblyInfoInputs.cache
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\rockPaperScissorsCsharp.AssemblyInfo.cs
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\rockPaperScissorsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\bin\Debug\net6.0\rockPaperScissorsCsharp.exe
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\bin\Debug\net6.0\rockPaperScissorsCsharp.deps.json
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\bin\Debug\net6.0\rockPaperScissorsCsharp.runtimeconfig.json
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\bin\Debug\net6.0\rockPaperScissorsCsharp.dll
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\bin\Debug\net6.0\ref\rockPaperScissorsCsharp.dll
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\bin\Debug\net6.0\rockPaperScissorsCsharp.pdb
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\rockPaperScissorsCsharp.dll
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\ref\rockPaperScissorsCsharp.dll
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\rockPaperScissorsCsharp.pdb
+C:\Users\Trist\Desktop\Programming\WebDev\codeworks\rockPaperScissorsCsharp\obj\Debug\net6.0\rockPaperScissorsCsharp.genruntimeconfig.cache
